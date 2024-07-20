@@ -26,8 +26,8 @@ export default function NavbarDashboard() {
                     </SheetContent>
                 </Sheet>
             </div>
-            <div className="flex items-center justify-end rounded-full gap-x-2 shadow-md w-fit">
-                <UserButton />
+            <div className="flex items-center justify-end gap-x-2 w-full">
+                <UserButton/>
             </div>
 
         </nav>
